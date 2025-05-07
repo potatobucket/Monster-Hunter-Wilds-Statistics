@@ -1,0 +1,27 @@
+monster_name,monster_rank,tempered_level,weapon_used,time_to_complete_in_seconds,success
+Chatacabra,Low,0,Bow,98,TRUE
+Quematrice,Low,0,Bow,106,TRUE
+Nerscylla,Low,0,Bow,226,TRUE
+Nerscylla,Low,0,Bow,228,TRUE
+Congalala,Low,0,Sword and Shield,166,TRUE
+Uth Duna,Low,0,Sword and Shield,225,TRUE
+Uth Duna,Low,0,Sword and Shield,345,TRUE
+Doshaguma,Low,0,Great Sword,212,TRUE
+Rey Dau,Low,0,Dual Blades,265,TRUE
+Rey Dau,Low,0,Bow,274,TRUE
+Guardian Fulgur Anjanath,High,0,Bow,376,TRUE
+Rey Dau,High,10,Lance,1442,TRUE
+Quematrice,High,4,Lance,211,TRUE
+Alpha Doshaguma,High,0,Lance,327,TRUE
+Chatacabra,High,0,Bow,159,TRUE
+Nu Udra,High,5,Bow,718,TRUE
+Xu Wu,High,5,Bow,704,TRUE
+Chatacabra,High,4,Bow,261,TRUE
+Arkveld,High,5,Lance,988,TRUE
+Rey Dau,High,4,Bow,570,TRUE
+Rompopolo,High,4,Bow,394,TRUE
+Chatacabra,High,4,Bow,289,TRUE
+Guardian Ebony Odogaron,Low,0,Bow,297,TRUE
+Guardian Rathalos,Low,0,Bow,258,TRUE
+Rathian,High,0,Bow,403,TRUE
+Arkveld,High,4,Bow,716,TRUE
